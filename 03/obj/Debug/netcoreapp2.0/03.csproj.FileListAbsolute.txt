@@ -1,0 +1,10 @@
+D:\VS_Projects\TechModule\Dictionaries\03\bin\Debug\netcoreapp2.0\03.deps.json
+D:\VS_Projects\TechModule\Dictionaries\03\bin\Debug\netcoreapp2.0\03.runtimeconfig.json
+D:\VS_Projects\TechModule\Dictionaries\03\bin\Debug\netcoreapp2.0\03.runtimeconfig.dev.json
+D:\VS_Projects\TechModule\Dictionaries\03\bin\Debug\netcoreapp2.0\03.dll
+D:\VS_Projects\TechModule\Dictionaries\03\bin\Debug\netcoreapp2.0\03.pdb
+D:\VS_Projects\TechModule\Dictionaries\03\obj\Debug\netcoreapp2.0\03.csproj.CoreCompileInputs.cache
+D:\VS_Projects\TechModule\Dictionaries\03\obj\Debug\netcoreapp2.0\03.AssemblyInfoInputs.cache
+D:\VS_Projects\TechModule\Dictionaries\03\obj\Debug\netcoreapp2.0\03.AssemblyInfo.cs
+D:\VS_Projects\TechModule\Dictionaries\03\obj\Debug\netcoreapp2.0\03.dll
+D:\VS_Projects\TechModule\Dictionaries\03\obj\Debug\netcoreapp2.0\03.pdb
